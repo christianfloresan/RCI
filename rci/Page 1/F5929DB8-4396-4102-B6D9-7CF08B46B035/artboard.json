@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0405C845-6639-4F14-AD33-CF8D653AEF7F",
+  "do_objectID": "F5929DB8-4396-4102-B6D9-7CF08B46B035",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 492,
-    "width": 681,
-    "x": 267,
+    "height": 465,
+    "width": 323,
+    "x": 984,
     "y": 61
   },
   "hasBackgroundColor": false,
@@ -47,20 +47,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A855FF5A-C4A3-460D-B7C2-7AB21F0C51A5"
-    },
-    {
-      "class": "oval",
-      "id": "DB4932B0-B33A-4C9C-83DB-51C202C41D28"
-    },
-    {
       "class": "text",
-      "id": "BF1A7E04-E3C8-4175-AAF4-3B27C449ED3E"
+      "id": "0507A758-3072-46A5-B567-968CD182AA9D"
     }
   ],
-  "name": "Mi kactus",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
